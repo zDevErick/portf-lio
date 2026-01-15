@@ -1,4 +1,4 @@
-# portf-lio
+# Portf-lio
 Portfólio de estudos e projetos em programação.
 
 Sou estudante de Tecnologia em Sistemas de Computação pela Universidade Federal Fluminense (UFF).
